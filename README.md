@@ -16,7 +16,7 @@ https://github.com/manijs82/MathAssignment/blob/2d3b39c02b54b704b840a5b0f919a66f
 
 ## Intersection
 LineLineIntersection is used for calculating the center of the field
-https://github.com/manijs82/MathAssignment/blob/2d3b39c02b54b704b840a5b0f919a66ff5e0c212/Source/MathAssignment/Divider.cpp#L50C2-L50C2
+https://github.com/manijs82/MathAssignment/blob/2d3b39c02b54b704b840a5b0f919a66ff5e0c212/Source/MathAssignment/Divider.cpp#L50C2-L50C2 <br>
 Various shape intersections used as a helper for the collision system
 https://github.com/manijs82/MathAssignment/blob/2d3b39c02b54b704b840a5b0f919a66ff5e0c212/Source/MathAssignment/IntersectionHelper.h#L1
 
